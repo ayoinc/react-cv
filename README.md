@@ -1,5 +1,7 @@
 # React-CV
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/a4ea1c6e-db1c-4238-a53b-d67fcce917bb.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/react-cv?orgId=666444378491)  
+
 > A Ready to use resume (CV) Component built by React, available for React/Gatsby and fully printable!
 
 React-CV is fully customizable,responsive and printable CV / Resume component for React/Gatsby.
